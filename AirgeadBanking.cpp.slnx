@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AirgeadBanking.cpp.vcxproj" Id="b705eafd-a491-4cd2-a398-eb5229167c58" />
+</Solution>
